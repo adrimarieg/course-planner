@@ -1,0 +1,29 @@
+{
+  "name": "course-planner",
+  "version": "1.0.0",
+  "description": "coursework planner by order of priority while taking prerequisites into account",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "course-planner"
+  },
+  "keywords": [
+    "mysql",
+    "database",
+    "backend",
+    "webapp",
+    "javascript",
+    "node",
+    "api"
+  ],
+  "author": "Adrianne",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mysql2": "^3.12.0"
+  }
+}
